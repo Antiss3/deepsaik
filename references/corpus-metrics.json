@@ -1,0 +1,627 @@
+{
+  "source_filename": "塞法语录800条.docx",
+  "source_sha256": "a6d120949f3b57a20f4414f06cb87fe703317fe583e53a03985dceaf5d4fe07a",
+  "structure": {
+    "paragraphs": 1591,
+    "nonempty_paragraphs": 796,
+    "tables": 0,
+    "images": 0,
+    "tracked_insertions": 0,
+    "tracked_deletions": 0
+  },
+  "entries": 795,
+  "characters": 112553,
+  "entry_length_in_unicode_codepoints": {
+    "min": 7,
+    "max": 1839,
+    "mean": 141.58,
+    "median": 118,
+    "percentiles": {
+      "10": 50,
+      "25": 76,
+      "50": 118,
+      "75": 169,
+      "90": 243,
+      "95": 324
+    }
+  },
+  "clause_length_split_on_comma_and_sentence_punctuation": {
+    "count": 9453,
+    "median": 10,
+    "percentiles": {
+      "10": 3,
+      "25": 6,
+      "50": 10,
+      "75": 15,
+      "90": 20,
+      "95": 23
+    }
+  },
+  "sentence_length_split_on_full_stop_question_exclamation": {
+    "count": 1918,
+    "median": 40.0,
+    "percentiles": {
+      "10": 13,
+      "25": 23,
+      "50": 40,
+      "75": 72,
+      "90": 126,
+      "95": 166
+    }
+  },
+  "exact_duplicate_groups": [
+    {
+      "ids": [
+        "S0549",
+        "S0789"
+      ],
+      "count": 2
+    }
+  ],
+  "substrings": {
+    "我操": {
+      "occurrences": 1151,
+      "entries": 519
+    },
+    "卧槽": {
+      "occurrences": 0,
+      "entries": 0
+    },
+    "他妈": {
+      "occurrences": 4055,
+      "entries": 706
+    },
+    "你妈": {
+      "occurrences": 1810,
+      "entries": 465
+    },
+    "妈的": {
+      "occurrences": 1628,
+      "entries": 584
+    },
+    "操": {
+      "occurrences": 1515,
+      "entries": 599
+    },
+    "鸡巴": {
+      "occurrences": 348,
+      "entries": 206
+    },
+    "傻逼": {
+      "occurrences": 190,
+      "entries": 126
+    },
+    "牛逼": {
+      "occurrences": 30,
+      "entries": 26
+    },
+    "这个": {
+      "occurrences": 1485,
+      "entries": 449
+    },
+    "那个": {
+      "occurrences": 1437,
+      "entries": 479
+    },
+    "然后": {
+      "occurrences": 1099,
+      "entries": 386
+    },
+    "就是": {
+      "occurrences": 310,
+      "entries": 190
+    },
+    "感觉": {
+      "occurrences": 183,
+      "entries": 104
+    },
+    "不是": {
+      "occurrences": 273,
+      "entries": 205
+    },
+    "你知道": {
+      "occurrences": 14,
+      "entries": 13
+    },
+    "到时候": {
+      "occurrences": 135,
+      "entries": 92
+    },
+    "直接": {
+      "occurrences": 142,
+      "entries": 95
+    },
+    "我感觉": {
+      "occurrences": 32,
+      "entries": 29
+    },
+    "你他妈": {
+      "occurrences": 286,
+      "entries": 170
+    },
+    "哎": {
+      "occurrences": 69,
+      "entries": 58
+    },
+    "啊": {
+      "occurrences": 214,
+      "entries": 146
+    },
+    "吧": {
+      "occurrences": 144,
+      "entries": 116
+    },
+    "呀": {
+      "occurrences": 84,
+      "entries": 70
+    },
+    "好吧": {
+      "occurrences": 44,
+      "entries": 38
+    },
+    "是吧": {
+      "occurrences": 26,
+      "entries": 24
+    },
+    "反正": {
+      "occurrences": 12,
+      "entries": 11
+    },
+    "结果": {
+      "occurrences": 41,
+      "entries": 35
+    },
+    "首先": {
+      "occurrences": 9,
+      "entries": 8
+    },
+    "所以说": {
+      "occurrences": 3,
+      "entries": 3
+    },
+    "所以": {
+      "occurrences": 11,
+      "entries": 11
+    },
+    "因为": {
+      "occurrences": 37,
+      "entries": 30
+    },
+    "但是": {
+      "occurrences": 27,
+      "entries": 22
+    },
+    "为什么": {
+      "occurrences": 25,
+      "entries": 19
+    },
+    "怎么": {
+      "occurrences": 132,
+      "entries": 103
+    },
+    "好像": {
+      "occurrences": 62,
+      "entries": 47
+    },
+    "是不是": {
+      "occurrences": 90,
+      "entries": 75
+    },
+    "什么叫": {
+      "occurrences": 2,
+      "entries": 2
+    },
+    "老子": {
+      "occurrences": 55,
+      "entries": 40
+    },
+    "兄弟": {
+      "occurrences": 1,
+      "entries": 1
+    },
+    "哥们": {
+      "occurrences": 3,
+      "entries": 3
+    },
+    "哥们儿": {
+      "occurrences": 3,
+      "entries": 3
+    },
+    "哥们儿们": {
+      "occurrences": 0,
+      "entries": 0
+    },
+    "大伙": {
+      "occurrences": 11,
+      "entries": 7
+    },
+    "有一说一": {
+      "occurrences": 0,
+      "entries": 0
+    },
+    "说实话": {
+      "occurrences": 5,
+      "entries": 4
+    },
+    "确实": {
+      "occurrences": 14,
+      "entries": 10
+    },
+    "？": {
+      "occurrences": 383,
+      "entries": 257
+    },
+    "?": {
+      "occurrences": 0,
+      "entries": 0
+    },
+    "！": {
+      "occurrences": 0,
+      "entries": 0
+    },
+    "!": {
+      "occurrences": 0,
+      "entries": 0
+    },
+    "，": {
+      "occurrences": 7535,
+      "entries": 789
+    },
+    "。": {
+      "occurrences": 1534,
+      "entries": 762
+    },
+    "；": {
+      "occurrences": 0,
+      "entries": 0
+    },
+    "：": {
+      "occurrences": 0,
+      "entries": 0
+    },
+    "…": {
+      "occurrences": 0,
+      "entries": 0
+    },
+    "\n": {
+      "occurrences": 0,
+      "entries": 0
+    },
+    "\t": {
+      "occurrences": 0,
+      "entries": 0
+    },
+    "完了": {
+      "occurrences": 306,
+      "entries": 151
+    },
+    "完了呢": {
+      "occurrences": 18,
+      "entries": 14
+    },
+    "搞": {
+      "occurrences": 132,
+      "entries": 85
+    },
+    "弄": {
+      "occurrences": 15,
+      "entries": 12
+    },
+    "这边": {
+      "occurrences": 116,
+      "entries": 85
+    },
+    "那边": {
+      "occurrences": 207,
+      "entries": 143
+    },
+    "哎呀": {
+      "occurrences": 28,
+      "entries": 27
+    },
+    "你这样吧": {
+      "occurrences": 2,
+      "entries": 2
+    },
+    "我教你": {
+      "occurrences": 6,
+      "entries": 3
+    },
+    "说白了": {
+      "occurrences": 7,
+      "entries": 6
+    },
+    "像": {
+      "occurrences": 178,
+      "entries": 109
+    },
+    "似的": {
+      "occurrences": 31,
+      "entries": 29
+    },
+    "对吧": {
+      "occurrences": 7,
+      "entries": 4
+    },
+    "能不能": {
+      "occurrences": 20,
+      "entries": 18
+    },
+    "行不行": {
+      "occurrences": 5,
+      "entries": 5
+    },
+    "其实": {
+      "occurrences": 17,
+      "entries": 17
+    },
+    "儿": {
+      "occurrences": 863,
+      "entries": 335
+    }
+  },
+  "entry_starts_first_8_characters": [
+    [
+      "你妈了个逼，你他",
+      2
+    ],
+    [
+      "你妈了个逼，你在",
+      2
+    ],
+    [
+      "不是你妈了个逼，",
+      2
+    ],
+    [
+      "那你是不是他妈的",
+      2
+    ],
+    [
+      "你妈了个逼，我操",
+      2
+    ],
+    [
+      "哎呀，我操，我他",
+      2
+    ],
+    [
+      "你他妈是人啊，我",
+      2
+    ],
+    [
+      "你妈的天天发语音",
+      2
+    ],
+    [
+      "我感觉现在可以开",
+      1
+    ],
+    [
+      "他妈阿根廷就是一",
+      1
+    ],
+    [
+      "操你妈，我宣布那",
+      1
+    ],
+    [
+      "妈的，你来武汉看",
+      1
+    ],
+    [
+      "妈的，操，老子买",
+      1
+    ],
+    [
+      "什么叫全球同步公",
+      1
+    ],
+    [
+      "这确实是好时代啊",
+      1
+    ],
+    [
+      "他妈的，都大四了",
+      1
+    ],
+    [
+      "操你的，我他妈当",
+      1
+    ],
+    [
+      "你妈了个逼，那比",
+      1
+    ],
+    [
+      "那你完蛋了，你的",
+      1
+    ],
+    [
+      "你他妈是不是脑子",
+      1
+    ],
+    [
+      "妈逼，怎么还有他",
+      1
+    ],
+    [
+      "他妈的，这个B站",
+      1
+    ],
+    [
+      "你妈的，你们全都",
+      1
+    ],
+    [
+      "我操，我教你一招",
+      1
+    ],
+    [
+      "武汉大学他妈的牛",
+      1
+    ],
+    [
+      "你知道他妈半夜1",
+      1
+    ],
+    [
+      "这写的是你妈逼，",
+      1
+    ],
+    [
+      "不是你知道我为什",
+      1
+    ],
+    [
+      "什么狗日的垃圾大",
+      1
+    ],
+    [
+      "操你妈，给老子还",
+      1
+    ]
+  ],
+  "entry_ends_last_6_characters": [
+    [
+      "，我操你妈。",
+      14
+    ],
+    [
+      "，操你妈的。",
+      9
+    ],
+    [
+      "你妈了个逼。",
+      7
+    ],
+    [
+      "我操你妈的。",
+      5
+    ],
+    [
+      "了，操你妈。",
+      5
+    ],
+    [
+      "的，操你妈。",
+      4
+    ],
+    [
+      "里面去，操。",
+      3
+    ],
+    [
+      "去，操你妈。",
+      3
+    ],
+    [
+      "我真操你妈。",
+      3
+    ],
+    [
+      "去了，我操。",
+      2
+    ],
+    [
+      "妈了个逼的。",
+      2
+    ],
+    [
+      "面去了，操。",
+      2
+    ],
+    [
+      "的高分好吧？",
+      2
+    ],
+    [
+      "。操你妈的。",
+      2
+    ],
+    [
+      "狗，操你妈。",
+      2
+    ],
+    [
+      "真操你妈了。",
+      2
+    ],
+    [
+      "一点，我操。",
+      2
+    ],
+    [
+      "来的，我操。",
+      2
+    ],
+    [
+      "真他妈傻逼。",
+      2
+    ],
+    [
+      "，你妈个逼。",
+      2
+    ],
+    [
+      "变成这样了。",
+      2
+    ],
+    [
+      "真你妈个逼。",
+      2
+    ],
+    [
+      "操你妈的逼。",
+      2
+    ],
+    [
+      "国人，我操。",
+      2
+    ],
+    [
+      "真他妈牛逼。",
+      2
+    ],
+    [
+      "他妈个逼的。",
+      2
+    ],
+    [
+      "真你妈傻逼。",
+      2
+    ],
+    [
+      "人了，我操。",
+      2
+    ],
+    [
+      "要判多少年。",
+      1
+    ],
+    [
+      "了，你妈的。",
+      1
+    ]
+  ],
+  "prefix_counts": {
+    "不是": 80,
+    "我操": 52,
+    "哎": 29,
+    "哎呀": 11,
+    "我感觉": 3,
+    "你这样吧": 2
+  },
+  "unique_exact_entries": 794,
+  "method_note": "按原文非空正文段落计数。子串非重叠计数，各词可能互相包含，不可相加。字符长度含标点和粗口。标点来自文档，不能直接推断真实语音停顿或消息分段。",
+  "oral_register_diagnostic": {
+    "method": "粗口词族正则非重叠匹配，用于同口径比较，不是词典穷尽或生成配额。字符含标点。",
+    "pattern": "操你妈(?:的)?|我操|你妈(?:了个逼|个逼|逼|的)?|他妈(?:的)?|妈了个逼|妈的|妈逼|鸡巴|傻逼|狗日的|逼养的|逼样的|操",
+    "matches": 7952,
+    "per_100_characters": 7.07,
+    "median_entry_per_100_characters": 7.41,
+    "original_three_trial_characters": 383,
+    "original_three_trial_matches": 3,
+    "original_three_trial_per_100_characters": 0.78
+  }
+}
